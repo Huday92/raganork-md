@@ -1,4 +1,4 @@
-# _Raganork-multi-device_
+# Shamy_Raganork-multi-device_
 ## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
   
 <div align="center">
